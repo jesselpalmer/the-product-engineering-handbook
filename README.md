@@ -1,6 +1,6 @@
-# awesome-front-end-architecture
+# awesome-web-engineering
 
-Front End Architecture resources
+Web Engineernig resources
 
 ## Web Performance
 
