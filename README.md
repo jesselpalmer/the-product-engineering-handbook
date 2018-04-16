@@ -14,3 +14,4 @@ Front End Architecture resources
 ## JavaScript
 
 [JavasScript: The Good Parts](https://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742)    
+[Eloquent JavaScript](https://www.amazon.com/Eloquent-JavaScript-2nd-Ed-Introduction/dp/1593275846)    
