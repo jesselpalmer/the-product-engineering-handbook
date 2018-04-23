@@ -23,3 +23,4 @@ If you find any other this information useful or just think that I'm a cool guy 
 
 [Don't Make Me Think, Revisited](https://www.amazon.com/Dont-Make-Think-Revisited-Usability/dp/0321965515/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=QH2518QFMBEGNGYY5WB9)    
 [The Design of Everyday Things](https://www.amazon.com/Design-Everyday-Things-Revised-Expanded/dp/0465050654/ref=pd_lpo_sbs_14_t_0?_encoding=UTF8&psc=1&refRID=PPNR998A4YCEA8TNCSBH)    
+[Thinkertoys](https://www.amazon.com/Thinkertoys-Handbook-Creative-Thinking-Techniques-Edition/dp/1580087736)     
